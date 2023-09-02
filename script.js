@@ -11,5 +11,5 @@ let renderPosts = async ()=> {
         PostsElement.innerHTML += `<h3>${post.id}. ${post.title} </h3> <p>${post.title}</p>`
     })
 }
-console.log('bonjoour je suis haba')
+console.log('Rebonjour je suis Mr Haba, je suis le programmeur que vous cherchez veuillez lire mon cv ci-dessus!')
 renderPosts()
